@@ -165,13 +165,7 @@ Lists all packages currently on hold.
 
 ---
 
-## 📌 Notes
 
-- All scripts were executed in **WSL 2** using **Ubuntu**.
-- Each screenshot reflects the actual terminal output of the command.
-- This project demonstrates proficiency in using common Linux CLI tools and package management.
-
----
 
 ## 👤 Author
 
